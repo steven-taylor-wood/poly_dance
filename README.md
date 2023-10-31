@@ -1,2 +1,2 @@
 # poly_dance
-Motion tracking using ml5.js
+Motion tracking using Posenet with ml5.js
